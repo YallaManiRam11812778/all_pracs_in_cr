@@ -1,0 +1,1126 @@
+{
+    "classes": [
+      "CHK",
+      "PAGE"
+    ],
+    "annotations": [
+      [
+        "Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\tTRE 706 FORNI\t4770200 Railaxmi\tPage 2\tCHK 4718\tTBL 330/1\tGST 4\t20 Jun'24 16:38 PM\tResident\t*SGST on S CH 9%\t24.53INR\tTotal Due 6755.02INR\t",
+        {
+          "entities": [
+            [
+              330,
+              331,
+              "PAGE"
+            ],
+            [
+              336,
+              340,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4702461 Soham\tPage 2\tTRE YOU FORNI\tCHK 4689\tTBL 728/1\tGST 4\t20 Jun'24 12:44 PM\tREPRINT 1\tResident\t*CGST on S CH 9%\t20.39INR\t*SGST OF C CLL 0%\t",
+        {
+          "entities": [
+            [
+              314,
+              315,
+              "PAGE"
+            ],
+            [
+              334,
+              338,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charse is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4770200 Rajlakai\tTRE JOL FORNI\tCHK 5842\tTBL 525/1\tGST 1\t12 Jun'24 0:38 AM\tResident\t2 Ice Cream\t1360.00\t996332\t",
+        {
+          "entities": [
+            [
+              329,
+              333,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4715830 Joyrins\tTRE JOY FORNI\tCHK 5752\tTBL 563/1\tGST 1\t11 Jun'24 7:50 AM\tResident\ti ATLANTIC SALMON ,SAUCE\tVIERGE\t2495.00\t",
+        {
+          "entities": [
+            [
+              329,
+              333,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case-\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAD -10014047000154\t4715830 Joyring\tTRE 700 FORNI\tCHK 5749\tTBL 458/1\tGST 1\t11 Jun 24 7:00 AM\tResident\t1 Tea\t300.00\t996332\t",
+        {
+          "entities": [
+            [
+              330,
+              334,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\"\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In casé\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4715830 Joyrins\tTRE 700 FORNI\tCHK 5747\tTBL 463/3\tGST 1\t11 Jun'24 6:12 AM\tResident\t2 Fr Orange\t1090.00\t996332\t",
+        {
+          "entities": [
+            [
+              329,
+              333,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4715830 Joyring\tTRE 700 FORNI\tCHK 5748\tTBL 541/1\tGST 1\t11 Jun'24 6:26 AM\tResident\t1 Tea\t300.00\t996332\t",
+        {
+          "entities": [
+            [
+              329,
+              333,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI 10014047000154\t4759876 Harsh\tTRE 700 FORNI\tCHK 5745\tTBL 463/2\tGST 1\t11 Jun'24 5:24 AM\tResident\tyear) OMELETTE 3 EGGS\t745.00\t996332\t",
+        {
+          "entities": [
+            [
+              326,
+              330,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: :+91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4715830 Joyrins\tTRE 700 FORNI\tCHK 5744\tTBL 463/1\tGST 1\t11 Jun 24 5:05 AM\tResident\t1 Cereal\t495.00\t996332\t",
+        {
+          "entities": [
+            [
+              330,
+              334,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charse is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4715830 Joyring\tTRE 200 FORNI\tCHK 5751\tTBL 619/1\tGST 1\t11 Jun'24 7:45 AM\tResident\t1 Poori Bhaji\t695.00\t996332\t",
+        {
+          "entities": [
+            [
+              329,
+              333,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charse is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4715830 Joyring\tTRE 200 FORNI\tCHK 5753\tTBL 415/1\tGST 1\t11 Jun 24 8:57 AM\tResident\t1 Pancakes\t695.00\t996332\t",
+        {
+          "entities": [
+            [
+              329,
+              333,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4770200 Rajlakmi\tTRE 200 FORNI\tCHK 5775\tTBL 560/1\tGST 1\t11 Jun'24 14:44 PM\tResident\t1 Tea\t300.00\t996332\t",
+        {
+          "entities": [
+            [
+              329,
+              333,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\"\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charse is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know\tFSSAI -10014047000154\t4770200 Rajl.axmi\tTRE FORNI\tCHK 5772\tTBL 454/1\tGST 2\t11 Jun'24 13:10 PM\tResident\t1 EGG FRIED RICE\t645.00\t996332\t",
+        {
+          "entities": [
+            [
+              326,
+              330,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\t?\tRoom Service\tService charge is optional. In cas\te you wish to revoke it from your b\till,\tkindly let your server know\tTRE YOU FORNI\tFSSAI -10014047000154\t200 Rajlaxmi\tPage\t2\tCHK 5772\tTBL 454/1\tGST 2\t11 Jun'24 13:10 PM\t",
+        {
+          "entities": [
+            [
+              329,
+              330,
+              "PAGE"
+            ],
+            [
+              335,
+              339,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4770200 Rajlaxmi\t1\tTRE 700 FORNI\tCHK 5771\tTBL 300/1\tGST i\t11 Jun224 13:06 PM\t**************\tREPRINT i\tResident\t1 EGG CURRY\t785.00\t",
+        {
+          "entities": [
+            [
+              332,
+              336,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4315205 Rambabu\tTRE FORNI\tCHK 5769\tTBL 617/1\tGST 1\t11 Jun 24 12:47 PM\tResident\t1 DAL TADKA\t1095.00\t996332\t",
+        {
+          "entities": [
+            [
+              327,
+              331,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4315205 Rambabu\tTRE FORNI\tCHK 5766\tTBL 448/1\tGST 1\t11 Jun'24 11:56 AM\tResident\t1 MURGH MAKHANI\t1545.00\t996332\t",
+        {
+          "entities": [
+            [
+              325,
+              329,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tYOU wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4770200 Rajlaxmi\tTRE YOU FORNI\tCHK 5771\tTBL 300/1\tGST 1\t11 Jun'24 13:06 PM\t- - - 1 dont\ttep CREADE - COUNT 765.00 $90.00\t",
+        {
+          "entities": [
+            [
+              329,
+              333,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tYOU wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4702461 Sohan\tTRE 700 FORNI\tCHK 5638\tTBL 999/1\tMSG\t10 Jun 24 7:13 AM\tResident\t61 MESSAGE\t0.00\t",
+        {
+          "entities": [
+            [
+              327,
+              331,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\"\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4315205 Rambabu\tTRE YOU FORNI\tCHK 5761\tTBL 541/1\tGST 1\t11 Jun'24 10:48 AM\tResident\t1 Dosa\t695.00\t996332\t",
+        {
+          "entities": [
+            [
+              329,
+              333,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\"\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4315205 Rambabu\tTRE 700 FORNI\tCHK 5764\tTBL 641/1\tGST 1\t11 Jun'24 10:57 AM\tResident\t1 Madras Coffee\t450.00\t996332\t",
+        {
+          "entities": [
+            [
+              329,
+              333,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\"\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTRE\tFORNI\t",
+        {
+          "entities": []
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI ~10014047000154\t4715830 Joyrins\tTRE 702 FORNI\tCHK 5757\tTBL 448/1\tGST 1\t11 Jun'24 9:56 AM\tResident\t6 Budweiser Btl\t3150.00\t",
+        {
+          "entities": [
+            [
+              328,
+              332,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD*\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4715830 Joyring\tTRE FORNI\tCHK 5755\tTBL 545/1\tGST 1\t11 Jun'24 9:31 AM\tResident\t1 Madras Coffee\t450.00\t996332\t",
+        {
+          "entities": [
+            [
+              325,
+              329,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFEGAL -10014047000154\t4715830 Joyrins\tTRE 700 FORNI\tCHK 5754\tTBL 700/1\tGST 1\t11 Jun'24 9:29 AM\tResident\t1 Madras Coffee\t450.00\t996332\t",
+        {
+          "entities": [
+            [
+              329,
+              333,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In cas\tyou wish to revoke it from your bi\t11,\tkindly let your server know\tTRE 700 FORNI\tFSSAI -10014047000154\t4770200 Rajlaxmi\tP.\tCHK 5812\tTBL 416/1\tGT 1\t",
+        {
+          "entities": [
+            [
+              331,
+              335,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\"\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4770200 Rajlaxmi\tTRE 700 FORNI\tCHK 5819\tTBL 448/1\tGST 2\t11 Jun'24 21:31 PM\tResident\t6 Budweiser Btl\t3150.00\t1 Coke\t285.00\t",
+        {
+          "entities": [
+            [
+              330,
+              334,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4770200 Rajlaxai\tTRE FORNI\tCHK 5814\tTBL 462/1\tGST 1\t11 Jun'24 21:11 PM\tResident\t1 CORN FED CHICKEN\tMUSHROOM JUS\t1495.00\t",
+        {
+          "entities": [
+            [
+              326,
+              330,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4770200 Rajlaxmi\tTRE YOU FORNI\tCHK 5796\tTBL 347/1\tGST 1\t11 Jun'24 18:54 PM\tResident\t1 Kichdi\t795.00\t996332\t",
+        {
+          "entities": [
+            [
+              330,
+              334,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4315205 Rambabu\tTRE FORNI\tCHK 5798\tTBL 727/1\tGST 1\t11 Jun'24 19:00 PM\tResident\t1 Tea\t300.00\t996332\t",
+        {
+          "entities": [
+            [
+              325,
+              329,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4315205 Rambabu\tTRE YOU FORNI\tCHK 5797\tTBL 513/1\tGST 1\t11 Jun'24 18:55 PM\tResident\t1 MUSHROOM SOUP\t595.00\t996332\t",
+        {
+          "entities": [
+            [
+              329,
+              333,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4770200 Rajlaxmi\tPage 2\tTRE 200 FORNI\tCHK 5778\tTBL 428/1\tGST 1\t11 Jun 24 15:10 PM\tResident\t*SGST 9%\t116.10INR\tPayment\t1522.20INR\t",
+        {
+          "entities": [
+            [
+              316,
+              317,
+              "PAGE"
+            ],
+            [
+              336,
+              340,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4770200 Rajlaxmi\tPase 2\tTRE FORNI\tCHK 5777\tTBL 437/1\tGST 2\t11 Jun 24 15:05 PM\tResident\t*SGST 9%\t623.25INR\t*CGST on S CH 9%\t38.25INR\t",
+        {
+          "entities": [
+            [
+              317,
+              318,
+              "PAGE"
+            ],
+            [
+              333,
+              337,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charse is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4315205 Rambabu\tTRE YOU FORNI\tCHK 5799\tTBL 300/1\tGST 1\t11 Jun'24 19:02 PM\tResident\t1 CHILLI PANEER\t825.00\t996332\t",
+        {
+          "entities": [
+            [
+              329,
+              333,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4770200 Rajlaxmi\tTRE JOY FORNI\tCHK 5792\tTBL 646/1\tGST 1\t11 Jun?24 18:29 PM\tResident\t1 NON VEG CAESAR SALAD\t1145.00\t996332\t",
+        {
+          "entities": [
+            [
+              330,
+              334,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\"\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4315205 Rambabu\tTRE 700 FORNI\tCHK 5795\tTBL 552/1\tGST 1\t11 Jun'24 18:52 PM\tResident\t1 Soda Can\t285.00\t996332\t",
+        {
+          "entities": [
+            [
+              329,
+              333,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4770200 Rajlaxmi\tTRE FORNI\tCHK 5791\tTBL 649/1\tGST 1\t11 Jun'24 18:23 PM\tResident\t1 Masala Tea\t300.00\t996332\t",
+        {
+          "entities": [
+            [
+              326,
+              330,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRoom Service\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4770200 Rajlaxmi\tTRE FORNI\tCHK 5793\tTBL 300/1\tGST 1\t11 Jun124 18:36 PM\tResident\t1 GREEN SALAD\t395.00\t996332\t",
+        {
+          "entities": [
+            [
+              326,
+              330,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTre Forni Bar\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4262373 Srinivas\tPage 2\tTRE FORNI\tCHK 3117\tTBL 52/1\tGST 1\t1 Mar'24 19:40 PM\tNon-Resident\t*Other\t1000.00INR\t5% Service Charge\t634.25INR\t*CGST 9%\t25.65INR\tTHE DINING ROOM\t",
+        {
+          "entities": [
+            [
+              318,
+              319,
+              "PAGE"
+            ],
+            [
+              334,
+              338,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTre Forni Resturant\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4700710 Shilpa\tTRE FORNI\tPage 2\tCHK 2468\tTBL 10/1\tGST 3\t1 Mar'24 15:18 PM\tNon-Resident\t*SGST 9%\t569.25INR\t*CGST on S CH 9%\t28.46INR\tTHE DINING ROOM\t300ST on C CU 07\tGATHD\t",
+        {
+          "entities": [
+            [
+              332,
+              333,
+              "PAGE"
+            ],
+            [
+              338,
+              342,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\tRoad No. 2. Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTre Forni Resturant\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4700710 Shilpa\tPage 2\tTRE FORNI\tCHK 2461\tTBL 28/1\tGST 2\t1 Mar124 12:50 PM\tNon-Resident\tFood\t5310.00INR\tTHE DINING ROOM\tSoft Reversgo\t475 OATNE\t",
+        {
+          "entities": [
+            [
+              321,
+              322,
+              "PAGE"
+            ],
+            [
+              337,
+              341,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTre Porni Resturant\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\tTRE FORNI\t4700710 Shilpa\tPage 2\tCHK 2462\tTBL 29/1\tGST 2\t1 Mar22 12:59 PM\tNon-Resident\tFood\t5350.00INR\tSoft Beverage\t950.00INR\tTHE DINING ROOM\t",
+        {
+          "entities": [
+            [
+              332,
+              333,
+              "PAGE"
+            ],
+            [
+              338,
+              342,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 12\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTre Forni Resturant\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4700710 Shilpa\tPage 2\tTRE FORNI\tCHK 2461\tTBL 28/1\tGST 2\t1 Mar'24 12:50 PM\tNon-Resident\tFood\t5310.00INR\tTHE DINING ROOM\tCoft\t675\t",
+        {
+          "entities": [
+            [
+              319,
+              320,
+              "PAGE"
+            ],
+            [
+              335,
+              339,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tARK HYATT HYDERABAD\"\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tUKA\tTre Formi Bar\tcharge is optional. In case\tto revoke it from your bill,\tlet your server know.\tFSSAI -10014047000154\t( Shilpa\tPage 2\tRE\tFORNI\tTBL 53/1\tGST 2\t1 Mar'24 15:25 PM\tNon-Resident\t297.90INR\t297.90INR\tTT TOA\tSCH.9%\t14 90TNC\t",
+        {
+          "entities": [
+            [
+              284,
+              285,
+              "PAGE"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2. Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTre Forni Bar\tService charge is optional. In case\t200 wish to revoke it from your bill,\tkindly let your server know,\tFSSAI -10014047000154\t4700710 Shilpa\tPage 2\tTRE FORNI\tCHK 3111\tTBL 53/1\tGST 2\t1 Mar'24 15:25 PM\tNon-Resident\t*CGST 9%\t297.90INR\t*SGST 9%\t297.90INR\t*CGST on S CH 9%\t14.90INR\t",
+        {
+          "entities": [
+            [
+              316,
+              317,
+              "PAGE"
+            ],
+            [
+              332,
+              336,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTre Forni Bar\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4262373 Srinivas\tPage 2\tTRE IV FORNI\tCHK 3121\tTBL 1/1\tGSP 2\t1 Mar'24 21:15 PM\tResident\t#SGST on S CH 9%\t40.16INR\tPayment\t9690.07INR\tChange Due\t0.00INR\tTHE DINING\t",
+        {
+          "entities": [
+            [
+              318,
+              319,
+              "PAGE"
+            ],
+            [
+              337,
+              341,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\"\tRoad No. 2, Banjara Hills,\tHyderabad, 500034. India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRika\tService charge is optional. In case you\twish to revoke it from your bill, kimll\tlet your server know.\tFSSAI 10014047000154\tTRE FORN\t4596883 Sunita\tPage 2\tCHK 6855\tTBL 1/6\tGST 5\tOT-2\t1 Mar24 23:22 PM\tNom-Resident\tTHE DINING ROOM\t996339\t",
+        {
+          "entities": [
+            [
+              314,
+              315,
+              "PAGE"
+            ],
+            [
+              320,
+              324,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\"\tRoad No. 2. Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tRika\tService charge is optional. In case you\twish to revoke it from your bill, kindl\tlet your server know.\tFSSAI -10014047000154\tTRE VIA FORNI\t4596883 Sunita\tPage 2\tCHK 6856\tTBL 25/1\tGST 2\t1 Mar'24 23:36 PM\tNon-Resident\tTotal Due 1911.17INR\tTHE DINING ROOM\t",
+        {
+          "entities": [
+            [
+              320,
+              321,
+              "PAGE"
+            ],
+            [
+              326,
+              330,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\"\tRoad No. 2. Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 1 40 4949 1235\tRIKA\tTre Forni Resturant\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4700710 Shilpa\tPage 2\tTRE FORNI\tCHK 2472\tTBL 32/1\tGST 2\t1 Mar22 19:10 PM\tResident\tFood\t3525.00INR\tTHE DINING ROOM\t",
+        {
+          "entities": [
+            [
+              324,
+              325,
+              "PAGE"
+            ],
+            [
+              340,
+              344,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\"\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTre Forni Resturant\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4700710 Shilpa\tTRE FORNI\tPage 2\tCHK 2472\tTBL 32/1\tGST 2\t1 Mar'24 19:10 PM\tResident\tFood\t3525.00INR\tTHE DINING ROOM\t1150\t",
+        {
+          "entities": [
+            [
+              332,
+              333,
+              "PAGE"
+            ],
+            [
+              338,
+              342,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\"\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTre Forni Resturant\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4700710 Shilpa\tPage 2\tTRE FORNI\tCHK 2465\tTBL 26/1\tGST 3\t1 Mar'24 14:26 PM\tNon-Resident\tTotal Due 8022.53INR\tTHE DINING ROOM\t",
+        {
+          "entities": [
+            [
+              322,
+              323,
+              "PAGE"
+            ],
+            [
+              338,
+              342,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTre Forni Resturant\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4700710 Shilpa\tPage 3\tTRE FORNI\tCHK 2465\tTBL 26/1\tGST 3\t1 Mar'24 14:26 PM\tNon-Resident\t#Not point redemption eligible\tTHE DINING ROOM\t",
+        {
+          "entities": [
+            [
+              322,
+              323,
+              "PAGE"
+            ],
+            [
+              338,
+              342,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTre Forni Resturant\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI +10014047000154\t4700710 Shilpa\tPage 2\tTRE FORNI\tCHK 2465\tTBL 26/1\tGST 3\t1 Mar'24 14:26 PM\tNon-Resident\t*CGST on S CH 9%\t29.14INR\t*SGST on S CH 9%\t29.14INR\tTHE DINING ROOM\tPayment\t8022.53TNR\t",
+        {
+          "entities": [
+            [
+              322,
+              323,
+              "PAGE"
+            ],
+            [
+              338,
+              342,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\tRoad No. 2, Banjara Hills,\tHyderabad, 500034. India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTre Forni Resturant\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4700710 Shilpa\tPage 3\tTRE FORNI\tCHK 2465\tTBL 26/1\tGST 3\t1 Mar'24 14:26 PM\tNon-Resident\t#Not point redemption eligible\tTHE DINING ROOM\t",
+        {
+          "entities": [
+            [
+              321,
+              322,
+              "PAGE"
+            ],
+            [
+              337,
+              341,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTre Forni Resturant\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4700710 Shilpa\tPage 2\tTRE FORNI\tCHK 2465\tTBL 26/1\tGST 3\t1 Mar'24 14:26 PM\tNon-Resident\tTotal Due 8022.53INR\tTHE DINING ROOM\t",
+        {
+          "entities": [
+            [
+              322,
+              323,
+              "PAGE"
+            ],
+            [
+              338,
+              342,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\"\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTre Forni Resturant\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4700710 Shilpa\tPage 2\tTRE FORNI\tCHK 2465\tTBL 26/1\tGST 3\t1 Mar'24 14:26 PM\tNon-Resident\t*CGST on S CH 9%\t29.14INR\t*SGST on S CH 9%\t29.14INR\tTHE DINING ROOM\tPayment\t902253TNE\t",
+        {
+          "entities": [
+            [
+              322,
+              323,
+              "PAGE"
+            ],
+            [
+              338,
+              342,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTre Forni Resturant\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4700710 Shilpa\tPage 2\tTRE FORNI\tCHK 2460\tTBL 31/1\tGST 9\t1 Mar22 12:20 PM\tResident\tTHE DINING ROOM\tVisa\t10078.02INR\t",
+        {
+          "entities": [
+            [
+              322,
+              323,
+              "PAGE"
+            ],
+            [
+              338,
+              342,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD*\tRoad No. 2. Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTre Forni Resturant\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4700710 Shilpa\tPage 2\tTRE FORNI\tCHK 2460\tTBL 31/1\tGST 9\t1 Mar'24 12:20 PM\tResident\tTHE DINING ROOM\tVisa\t10078.02TNR\t",
+        {
+          "entities": [
+            [
+              322,
+              323,
+              "PAGE"
+            ],
+            [
+              338,
+              342,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 12\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTre Forni Resturant\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\tTRE FORNI\t4700710 Shilpa\tPage 2\tCHK 2462\tTBL 29/1\tGST 2\t1 Mar22 12:59 PM\tNon-Resident\tFood\t5350.00INR\tSoft Beverage\t950.00INR\tTHE DINING ROOM\t",
+        {
+          "entities": [
+            [
+              329,
+              330,
+              "PAGE"
+            ],
+            [
+              335,
+              339,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\"\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTre Forni Resturant\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4700710 Shilpa\tPage 2\tTRE FORNI\tCHK 2466\tTBL 30/1\tGST 3\t- 1 Mar'24 14:44 PM\tNon-Resident\tFood\t3750.00INR\tSoft Beverage\t1235.00INR\tTHE DINING ROOM\t5% Service Charge\t249.25TMR\t",
+        {
+          "entities": [
+            [
+              322,
+              323,
+              "PAGE"
+            ],
+            [
+              338,
+              342,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTre Forni Resturant\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4700710 Shilpa\tPage 2\tTRE FORNI\tCHK 2466\tTBL 30/1\tGST 3\t1 Mar'24 14:44 PM\tNon-Resident\tFood\t3750.00INR\tSoft Beverage\t1235.00INR\tTHE DINING ROOM\t5% Service Charge\t249.25TMR\t",
+        {
+          "entities": [
+            [
+              322,
+              323,
+              "PAGE"
+            ],
+            [
+              338,
+              342,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTre Foroi Resturant\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4700710 Shilpa\tPage 2\tTRE FORNI\tCHK 2477\tTBL 10/1\tGST 6\t1 Mar'24 19:49 PM\tNon-Resident\t5% Service Charge\t310.25INR\t*CGST 9%\t284.85INR\tTHE DINING ROOM\t*SGST 9%\t284.85THR\t",
+        {
+          "entities": [
+            [
+              322,
+              323,
+              "PAGE"
+            ],
+            [
+              338,
+              342,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\"\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tThe Living Room\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4757386 Kekroseno\tTRE Y FORNI\tPase 2\tCHK 7718\tTBL 35/1\tGST 2\t1 Mar'24 12:35 PM\tNon-Resident\tDiscount\t-229.00INR\t5% Service Charge\t45.80INR\tTHE DINING ROOM\t*CGST 9%\t",
+        {
+          "entities": [
+            [
+              333,
+              334,
+              "PAGE"
+            ],
+            [
+              339,
+              343,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\"\tRoad No. 2. Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tThe Living Room\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4757386 Kekroseno\tPage 2\tTRE FORNI\tCHK 7721\tTBL 32/1\tGST 2\tMX0-TPM\t1 Mar'24 14:13 PM\tNon-Resident\tCash\t1266.89INR\tTHE DINING ROOM\t",
+        {
+          "entities": [
+            [
+              321,
+              322,
+              "PAGE"
+            ],
+            [
+              337,
+              341,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034. India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tThe Living Room\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4757386 Kekroseno\tPage 2\tTRE FORNI\tCHK 7724\tTBL 35/1\tGST 1\tWLQ-MLD\t1 Mar'24 15:18 PM\tNon-Resident\t*SGST 9%\t92.48INR\tTHE DINING ROOM\t*CGST on SCH 9%\t4.62TNR\t",
+        {
+          "entities": [
+            [
+              321,
+              322,
+              "PAGE"
+            ],
+            [
+              337,
+              341,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tThe Living Room\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4731730 Tamasa\tPage 2\tTRE FORNI\tCHK 7728\tTBL 20/1\tGST 2\tDPL-XAH\t1 Mar'24 16:17 PM\tNon-Resident\t5% Service Charge\t46.25INR\tTHE DINING ROOM\t*CGCT 04\t25TMD\t",
+        {
+          "entities": [
+            [
+              318,
+              319,
+              "PAGE"
+            ],
+            [
+              334,
+              338,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\"\tRoad No. 2. Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tThe Living Room\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4757386 Kekroseno\tPage 2\tTRE FORNI\tCHK 7714\tTBL 13/1\tGST 4\tLMV-UJR\t1 Mar'24 12:02 PM\tNon-Resident\t*SGST on S CH 9%\t4.37INR\tTHE DINING ROOM\tTotal Due 1203.37INR\t",
+        {
+          "entities": [
+            [
+              321,
+              322,
+              "PAGE"
+            ],
+            [
+              337,
+              341,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTre Forni Resturant\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\tTRE FORNI\t4700710 Shilpa\tPage 2\tCHK 2475\tTBL 33/1\tGST 2\t1 Mar22 19:46 PM\tNon-Resident\tSoft Beverage\t974.00INR\t*Other\t0.53INR\tTHE DINING ROOM\t",
+        {
+          "entities": [
+            [
+              332,
+              333,
+              "PAGE"
+            ],
+            [
+              338,
+              342,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\"\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 123\tRIKA\tTre Forni Resturant\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\tTRE FORNI\t4700710 Shilpa\tPase 2\tCHK 2475\tTBL 33/1\tGST 2\t1 Mar'24 19:46 PM\tNon-Resident\tSoft Beverage\t974.00INR\t*Other\t0.53INR\tTHE DINING ROOM\t",
+        {
+          "entities": [
+            [
+              331,
+              332,
+              "PAGE"
+            ],
+            [
+              337,
+              341,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\"\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tThe Dinnins Room\tService charge is optional. In case yo\twish to revoke it from your bill, kindl\tlet your server know.\tFSSAI -10014047000154\t4755289 Mukesh\tTRE FORNI\tPage 2\tCHK 1745\tTBL 5/1\tGST 2\t12 Feb'24 21:26 PM\tResident\t*CGST on S CH 9%\t22.43INR\t*SGST on S CH 9%\t22.43INR\tTHE DINING ROOM\tETID\t",
+        {
+          "entities": [
+            [
+              327,
+              328,
+              "PAGE"
+            ],
+            [
+              333,
+              337,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tThe Dinning Room\tService charge is optional. In case yo\twish to revoke it from your bill, kindl\tlet your server know.\tFSSAI -10014047000154\tTRE FORNI\t4731812 Sayandeer\tPage 2\tCHK 1717\tTBL 4/1\t519\t12 Feb'24 14:07 PM\tResident\tSoft Beverage\t285.00INR\tTHE DINING ROOM\tAATHD\t",
+        {
+          "entities": [
+            [
+              330,
+              331,
+              "PAGE"
+            ],
+            [
+              336,
+              340,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 1 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tThe Living Room\tService charge is optional. In case\tyou wish to revoke it from your bill,\tkindly let your server know.\tFSSAI -10014047000154\t4731730 Tamasa\tPage 2\tTRE FORNI\tCHK 7990\tTBL 21/1\tGST 4\t13 Feb'24 16:41 PM\tResident\t*CGST on S CH 9%\t7.43INR\t*SGST on S CH 9%\t7,43INR\tTHE DINING ROOM\tPayment\t2044.36TNE\t",
+        {
+          "entities": [
+            [
+              319,
+              320,
+              "PAGE"
+            ],
+            [
+              335,
+              339,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABADT\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tThe Dinning Room\tService charge is optional. In case yo\twish to revoke it from your bill, kindl\tlet your server know.\tFSSAI -10014047000154\t4731812 Sayandeep\tPage 2\tTRE FORNI\tCHK 1626\tTBL 5/1\tGST 2\t11 Feb'24 13:18 PM\tResident\tDiscount\t-917.00INR\t5% Service Charge\t183.40INR\t*CGST 0%\t30.12TNR\t",
+        {
+          "entities": [
+            [
+              320,
+              321,
+              "PAGE"
+            ],
+            [
+              336,
+              340,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\"\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tThe Dinning Room\tService charge is optional. In case yo\twish to revoke it from your bill, kindl\tlet your server know.\tFSSAI -10014047000154\tTRE FORNI\t4731812 Sayandeep\tPage 2\tCHK 1669\tTBL 6/1\tGST 2\t11 Feb'24 20:02 PM\tResident\t*SGST 9%\t338.40INR\t*CGST on S CH 9%\t16.92INR\tTHE DINING ROOM\t#GGST c CH 97\t",
+        {
+          "entities": [
+            [
+              330,
+              331,
+              "PAGE"
+            ],
+            [
+              336,
+              340,
+              "CHK"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD™\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tThe Dinning Room\tService charge 15 optional In case yo\trevoke it from your bill, kindl\tlet your server know.\tFSSAI 10014047000154\t4731612 Sayandeer\tPage 2\tTRE FORNI\t:- 1216\tTBL 5/1\tGST\t2\t5 Feb'24 15:00 PM\tResident\t3% Service Charge\t183.40INR\t*CGST 9%\t330.12INR\t*GGST 9%\t330.12INR\t",
+        {
+          "entities": [
+            [
+              310,
+              311,
+              "PAGE"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tARK HYATT HYDERABAD\"\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tUKA\tTre Formi Bar\tcharge is optional. In case\tto revoke it from your bill,\tlet your server know.\tFSSAI -10014047000154\t( Shilpa\tPage 2\tRE\tFORNI\tTBL 53/1\tGST 2\t1 Mar'24 15:25 PM\tNon-Resident\t297.90INR\t297.90INR\tTT TOA\tSCH.9%\t14 90TNC\t",
+        {
+          "entities": [
+            [
+              284,
+              285,
+              "PAGE"
+            ]
+          ]
+        }
+      ],
+      [
+        " Park Hyatt Hyderabad\tPARK HYATT HYDERABAD\"\tRoad No. 2, Banjara Hills,\tHyderabad, 500034, India\tTel: +91 40 4949 1234\tTAX INVOICE\tFax: +91 40 4949 1235\tRIKA\tTRE\tFORNI",
+        {
+          "entities": []
+        }
+      ],
+      [
+        "",
+        {
+          "entities": []
+        }
+      ]
+    ]
+  }

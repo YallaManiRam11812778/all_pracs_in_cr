@@ -1,0 +1,272 @@
+[
+ {
+  "Validations": "e-Invoice Code / Number",
+  "Error/Warning Message": "Special characters is not allowed, except for \u201c - \u201d and \u201c / \u201d",
+  "Error Code": "MVC-1001",
+  "Comment": "\"-\" and \"/\" are applicable to use "
+ },
+ {
+  "Validations": "Supplier\u2019s TIN",
+  "Error/Warning Message": "Special characters are not permitted in this field. Please remove any symbols or special characters",
+  "Error Code": "MVC-1002",
+  "Comment": "Company TIN: C2584563202 can be used"
+ },
+ {
+  "Validations": "Supplier\u2019s Registration",
+  "Error/Warning Message": "Special characters are not permitted in this field. Please remove any symbols or special characters",
+  "Error Code": "MVC-1003",
+  "Comment": "Business Registration Number: 201901234567"
+ },
+ {
+  "Validations": "Identification Number",
+  "Error/Warning Message": "Special characters are not permitted in this field. Please remove any symbols or special characters",
+  "Error Code": "MVC-1004",
+  "Comment": "NRIC Number: 770625015324"
+ },
+ {
+  "Validations": "Passport Number",
+  "Error/Warning Message": "Special characters are not permitted in this field. Please remove any symbols or special characters",
+  "Error Code": "MVC-1005",
+  "Comment": "Passport Number: A12345678"
+ },
+ {
+  "Validations": "Supplier\u2019s Registration or  Identification Number or Passport Number",
+  "Error/Warning Message": "Supplier\u2019s Registration or  Identification Number or Passport Number  these are Conditional Mandatory",
+  "Error Code": "MVC-1006",
+  "Comment": ""
+ },
+ {
+  "Validations": "Supplier\u2019s SST Registration Number",
+  "Error/Warning Message": "Special characters are not permitted in this field. Please remove any symbols or special characters, except for \u201c - \u201d.",
+  "Error Code": "MVC-1007",
+  "Comment": "The number assigned by JKDM (e.g., A01-2345-67891012)"
+ },
+ {
+  "Validations": "Supplier\u2019s Tourism Tax Registration Number",
+  "Error/Warning Message": "Special characters are not permitted in this field. Please remove any symbols or special characters, except for \u201c - \u201d",
+  "Error Code": "MVC-1008",
+  "Comment": "The number assigned by JKDM (e.g., A01-2345-67891012)"
+ },
+ {
+  "Validations": "Supplier\u2019s e-mail",
+  "Error/Warning Message": "The email should have consist of ABC@mail.com",
+  "Error Code": "MVC-1009",
+  "Comment": "e.g., general.ams@supplier.com"
+ },
+ {
+  "Validations": "Supplier Malaysia Standard Industrial Classification (MSIC) Code",
+  "Error/Warning Message": "Special characters and alphabets are not permitted in this field. Please remove any symbols or special characters or alphabets",
+  "Error Code": "MVC-1010",
+  "Comment": " The MSIC 2008 Code (e.g., 10712)"
+ },
+ {
+  "Validations": "Supplier Contact Number",
+  "Error/Warning Message": "Special characters and alphabets are not permitted in this field. Please remove any symbols or special characters or alphabets",
+  "Error Code": "MVC-1011",
+  "Comment": " I.e - Manufacture of bread, cakes, and other bakery products"
+ },
+ {
+  "Validations": "Buyer Name",
+  "Error/Warning Message": "-",
+  "Error Code": "MVC-1012",
+  "Comment": ""
+ },
+ {
+  "Validations": "Buyer TIN",
+  "Error/Warning Message": "Special characters are not permitted in this field. Please remove any symbols or special characters",
+  "Error Code": "MVC-1013",
+  "Comment": ""
+ },
+ {
+  "Validations": "Buyer Identification Number",
+  "Error/Warning Message": "If not applicable or provided, input \u201cNA\u201d. The input of special characters is not allowed",
+  "Error Code": "MVC-1014",
+  "Comment": ""
+ },
+ {
+  "Validations": "Buyer Passport Number",
+  "Error/Warning Message": "If not applicable or provided, input \u201cNA\u201d. The input of special characters is not allowed",
+  "Error Code": "MVC-1015",
+  "Comment": ""
+ },
+ {
+  "Validations": "Buyer Registration",
+  "Error/Warning Message": "If not applicable or provided, input \u201cNA\u201d. The input of special characters is not allowed",
+  "Error Code": "MVC-1016",
+  "Comment": ""
+ },
+ {
+  "Validations": "Buyer Identification Number or Buyer Passport Number or Buyer Registration",
+  "Error/Warning Message": "Buyer Identification Number or Buyer Passport Number or Buyer Registration these are conditional mandatory",
+  "Error Code": "MVC-1017",
+  "Comment": ""
+ },
+ {
+  "Validations": "Buyer SST Registration Number",
+  "Error/Warning Message": "If not applicable or provided, input \u201cNA\u201d. The input of special characters is not allowed, except for \u201c - \u201d",
+  "Error Code": "MVC-1018",
+  "Comment": ""
+ },
+ {
+  "Validations": "Buyer e-mail",
+  "Error/Warning Message": "If not applicable or provided, input \u201cNA\u201d",
+  "Error Code": "MVC-1019",
+  "Comment": ""
+ },
+ {
+  "Validations": "Buyer Contact Number",
+  "Error/Warning Message": "If not applicable or provided, input \u201cNA\u201d. The input of alphabets and special characters is not allowed",
+  "Error Code": "MVC-1020",
+  "Comment": ""
+ },
+ {
+  "Validations": "e-Invoice Version",
+  "Error/Warning Message": "Special characters and alphabets are not permitted in this field. Please remove any symbols or special characters or alphabets, except for \u201c . \u201d",
+  "Error Code": "MVC-1021",
+  "Comment": ""
+ },
+ {
+  "Validations": "e-Invoice Type",
+  "Error/Warning Message": "Special characters and alphabets are not permitted in this field. Please remove any symbols or special characters or alphabets",
+  "Error Code": "MVC-1022",
+  "Comment": ""
+ },
+ {
+  "Validations": "e-Invoice Code / Number",
+  "Error/Warning Message": "Special characters are not permitted in this field. Please remove any symbols or special characters, except for \u201c - \u201d and \u201c / \u201d",
+  "Error Code": "MVC-1023",
+  "Comment": ""
+ },
+ {
+  "Validations": "Original e-Invoice Reference Number",
+  "Error/Warning Message": "If the e-Invoice Type is  02 or 03 or 04, Original e-Invoice Ref Num is Mandatory",
+  "Error Code": "MVC-1024",
+  "Comment": ""
+ },
+ {
+  "Validations": "e-Invoice Date and Time",
+  "Error/Warning Message": "The input date and time must not be later than the current date and time specified in the 24-hour format. e.g., 31/10/2023 14:30:59",
+  "Error Code": "MVC-1025",
+  "Comment": ""
+ },
+ {
+  "Validations": "Invoice Currency Code",
+  "Error/Warning Message": "Special characters are not permitted in this field. Please remove any symbols or special characters",
+  "Error Code": "MVC-1026",
+  "Comment": ""
+ },
+ {
+  "Validations": "Currency Exchange Rate",
+  "Error/Warning Message": "If the Invoice currency code is not MYR the Currency Exchange rate is mandatory",
+  "Error Code": "MVC-1027",
+  "Comment": ""
+ },
+ {
+  "Validations": "Currency Exchange Rate",
+  "Error/Warning Message": "The amount cannot be a negative value. Please enter a non-negative amount",
+  "Error Code": "MVC-1028",
+  "Comment": ""
+ },
+ {
+  "Validations": "Frequency of Billing",
+  "Error/Warning Message": "Special characters and alphabets are not permitted in this field. Please remove any symbols or special characters or alphabets",
+  "Error Code": "MVC-1029",
+  "Comment": ""
+ },
+ {
+  "Validations": "Billing Period",
+  "Error/Warning Message": "Special characters are not permitted in this field. Please remove any symbols or special characters, except for \u201c - \u201d",
+  "Error Code": "MVC-1030",
+  "Comment": ""
+ },
+ {
+  "Validations": "Classification",
+  "Error/Warning Message": "Special characters and alphabets are not permitted in this field. Please remove any symbols or special characters or alphabets",
+  "Error Code": "MVC-1031",
+  "Comment": ""
+ },
+ {
+  "Validations": "Unit Price",
+  "Error/Warning Message": "The numerical values with two (2) decimal places only",
+  "Error Code": "MVC-1032",
+  "Comment": ""
+ },
+ {
+  "Validations": "Tax Type",
+  "Error/Warning Message": "Special characters and alphabets are not permitted in this field. Please remove any symbols or special characters or alphabets",
+  "Error Code": "MVC-1033",
+  "Comment": ""
+ },
+ {
+  "Validations": "Tax Rate",
+  "Error/Warning Message": "The numerical values with two (2) decimal places (e.g., 0.06 for 6%)",
+  "Error Code": "MVC-1034",
+  "Comment": ""
+ },
+ {
+  "Validations": "Tax Amount",
+  "Error/Warning Message": "The numerical values with two (2) decimal places only",
+  "Error Code": "MVC-1035",
+  "Comment": ""
+ },
+ {
+  "Validations": "Details of Tax Exemption",
+  "Error/Warning Message": "Special characters are not permitted in this field. Please remove any symbols or special characters, except for \u201c - \u201d",
+  "Error Code": "MVC-1036",
+  "Comment": ""
+ },
+ {
+  "Validations": "Amount Exempted from Tax",
+  "Error/Warning Message": "The numerical values with two (2) decimal places only",
+  "Error Code": "MVC-1037",
+  "Comment": ""
+ },
+ {
+  "Validations": "Subtotal",
+  "Error/Warning Message": "The numerical values with two (2) decimal places only",
+  "Error Code": "MVC-1038",
+  "Comment": ""
+ },
+ {
+  "Validations": "Discount Rate",
+  "Error/Warning Message": "The numerical values with two (2) decimal places (e.g., 0.06 for 6%)",
+  "Error Code": "MVC-1039",
+  "Comment": ""
+ },
+ {
+  "Validations": "Discount Amount",
+  "Error/Warning Message": "The numerical values with two (2) decimal places only",
+  "Error Code": "MVC-1040",
+  "Comment": ""
+ },
+ {
+  "Validations": "Payment Mode",
+  "Error/Warning Message": "The input of alphabets and special characters is not allowed.",
+  "Error Code": "MVC-1041",
+  "Comment": ""
+ },
+ {
+  "Validations": "Supplier Bank Account Number",
+  "Error/Warning Message": "Special characters and alphabets are not permitted in this field. Please remove any symbols or special characters or alphabets, except for \u201c - \u201d",
+  "Error Code": "MVC-1042",
+  "Comment": ""
+ },
+ {
+  "Validations": "Payment Amount",
+  "Error/Warning Message": "The numerical values with two (2) decimal places only",
+  "Error Code": "MVC-1043",
+  "Comment": ""
+ },
+ {
+  "Validations": "Payment Date",
+  "Error/Warning Message": "Date format for payment date - DD/MM/YYYY",
+  "Error Code": "MVC-1044",
+  "Comment": ""
+ },
+ {
+  "Validations": "Payment Reference Number",
+  "Error/Warning Message": "Special characters are not permitted in this field. Please remove any symbols or special characters",
+  "Error Code": "MVC-1045",
+  "Comment": ""
+ }
+]
